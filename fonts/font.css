@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Ralaway;
+    src: 
+        url(./Raleway-ExtraBold.woff) format("woof"),
+        url(./Raleway-ExtraBold.woff2) format("woff2");
+    font-weight: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: Ralaway;
+    src: 
+        url(./Raleway-Regular.woff) format("woof"),
+        url(./Raleway-Regular.woff2) format("woof2");
+    font-weight: normal;
+    font-display: swap;
+}
